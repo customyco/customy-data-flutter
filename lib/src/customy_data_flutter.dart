@@ -56,7 +56,7 @@ final class CustomyDataFlutter {
     }
   }
 
-  static const version = '0.1.0';
+  static const version = '0.1.1';
   static const conformanceContract = 'customy.customer-data-sdk.conformance.v1';
   static const _eventTypes = {
     'track',

@@ -1,6 +1,6 @@
 name: customy_data_flutter
 description: Governed customer data collection SDK for Flutter and Dart mobile apps.
-version: 0.1.0
+version: 0.1.1
 homepage: https://customy.ai
 repository: https://github.com/customyco/customy-data-flutter
 environment:
