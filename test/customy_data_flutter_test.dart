@@ -64,7 +64,7 @@ CustomyDataFlutter client(
 void main() {
   test('portable six-call conformance', () async {
     final vectors = jsonDecode(
-      File('../sdk-data/conformance/customer-data-v1.json').readAsStringSync(),
+      File('conformance/customer-data-v1.json').readAsStringSync(),
     ) as JsonMap;
     expect(vectors['contract'], CustomyDataFlutter.conformanceContract);
     final recorder = Recorder();
